@@ -1,6 +1,7 @@
 # Dynamic Form Builder
 <img width="958" alt="Screenshot 2025-03-11 at 1 37 48 AM" src="https://github.com/user-attachments/assets/5193ae30-7f5c-4008-b189-e9695d1b4aa2" />
-<img width="958" alt="Screenshot 2025-03-11 at 1 37 48 AM" src="https://github.com/user-attachments/assets/c8241746-f40e-4a16-bc15-3a114231852a" />
+<img width="486" alt="Screenshot 2025-03-11 at 1 40 49 AM" src="https://github.com/user-attachments/assets/b7e43896-8e8b-46ab-81fc-c36d829e065d" />
+
 
 # ABOUT THE PROJECT :
 A React-based dynamic form builder that allows users to create and modify forms based on a JSON schema. The form supports various field types, nested sections, validation, and drag-and-drop reordering.
